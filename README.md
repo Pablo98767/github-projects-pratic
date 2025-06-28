@@ -19,3 +19,16 @@ Praticar:
 - Edição de README.md
 - Pull Requests
 - Uso de GitHub Projects para organizar as tarefas
+
+
+
+
+## 🛠️ **Passo a Passo Para instalar esse repositorio e fazer a atividade**
+
+### 1. Clonar o repositório
+
+Abra o terminal e execute:
+
+```bash
+git clone https://github.com/seu-usuario/github-projects-pratica.git
+cd github-projects-pratica
